@@ -1,4 +1,3 @@
 streamlit
-PIL
 azure-cognitiveservices-vision-computervision
 pillow
